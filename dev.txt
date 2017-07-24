@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-hehe
-=======
+
+hehe123
 hehehehee
->>>>>>> dev
+
